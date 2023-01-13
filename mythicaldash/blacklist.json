@@ -1,0 +1,16 @@
+{
+    "sites": [
+        {
+            "url": "http://example.com",
+            "reason": "Scam"
+        },
+        {
+            "url": "http://example2.com",
+            "reason": "Violates company policy"
+        },
+        {
+            "url": "http://example3.com",
+            "reason": "Spam website"
+        }
+    ]
+}
